@@ -1,2 +1,3 @@
 # HelloDataScientist
-DS: projects and exercise
+FUTURE DATA SCIENTIST PROJECTS :D
+
